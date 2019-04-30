@@ -72,7 +72,7 @@ date_format: "%b %d, %Y"
 google_analytics: UA-1666437-33
 twitter:
   username: siteleaf
-logo: "/assets/logo.svg"
+logo: "/assets/logo.png"
 future: true
 header_nav:
   Blog: "/blog/"
